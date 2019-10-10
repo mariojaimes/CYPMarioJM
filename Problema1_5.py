@@ -1,5 +1,0 @@
-RADIO= float(input("Cual es el radio del Cilindro?   :"))
-ALTU= float(input("Cual es la altura del cilindro?   :"))
-VOL= (3.141592*(RADIO**2)*ALTU)
-ARE= (2*3.141592*RADIO*ALTU)
-print(f"El volumen de este cilindro es {VOL} , y su area es {ARE}.")

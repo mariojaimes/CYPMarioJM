@@ -10,7 +10,7 @@ if N >= 1 and N<= 500:
         while I <= N-1:
             print(VEC[I])
             REPET = VEC[I]
-            while I <= N--1 and REPET == VEC[I]:
+            while I <= N-1 and REPET == VEC[I]:
                 I += 1
 else:
     print("El numero de elementos del arreglo es incorrecto")
